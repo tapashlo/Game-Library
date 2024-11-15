@@ -18,7 +18,7 @@ export default function Header() {
 
             <Link href={'/'}>
                 <span className='text-2xl font-bold bg-lime-400 text-black rounded-lg py-1 px-2'>
-                    Game Lib
+                    Adrian's<span className='hidden sm:inline'> Game</span>
                     </span>
                 </Link>
 
